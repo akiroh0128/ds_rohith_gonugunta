@@ -68,5 +68,3 @@ pip install pandas matplotlib seaborn scikit-learn xgboost statsmodels gdown rep
 3. Download the datasets using `gdown` or manually place them in the working directory.
 4. Execute cells step-by-step to reproduce the analysis.
 
-## Author
-Data Science Analysis generated with assistance from ChatGPT.
